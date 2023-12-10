@@ -7,4 +7,4 @@ Output Files for ROB 535: Self Driving Cars
 
 `merged_test_normal.txt` contains our inferences in one file. Entries up to 423 contain our inferences for normal weather conditions. 500 and after represent our inferences for adversial weather conditions. 
 
-`test.sh`, `train.sh`, and `merge.sh` all contain shell scripts of our executions and specify the flag we've used.
+`test.sh`, `train.sh`, and `merge.sh` all contain shell scripts of our executions and specify the flags we've used.
